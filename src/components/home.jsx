@@ -4,7 +4,8 @@ import { FaCogs, FaMobileAlt, FaWifi, FaQuoteLeft } from 'react-icons/fa';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import rezonix from './Rezonix.png'
-import images from './imgs2.jpg';
+// import images from './imgs2.jpg';
+import images from './rezonixMainPage.jpg'
 import amazonlogo from './amazonLogo.png';
 import flipkartlogo from './flipkartLogo.png';
 
